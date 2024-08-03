@@ -22,6 +22,7 @@ The receiver, also with an Arduino Nano, NRF24L01+ module, L298N driver module, 
 
 **Circuit Diagram:**
 
+
 1.1 Transmitter Diagram: 
 ![image](https://github.com/user-attachments/assets/62eadafc-4d5d-4ba9-b93d-4b99ee45a4c3)
 
