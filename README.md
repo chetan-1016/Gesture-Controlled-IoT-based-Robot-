@@ -12,7 +12,6 @@ A prototype of the gesture-controlled IoT-based robot has been developed, follow
 5.	Right: when it gets a hand gesture that creates the highest +90 degree in the X axis.
 
 **Working:**
-
 The gesture control IoT-based robot operates through a transmitter and receiver system. The transmitter, consisting of an Arduino Nano, NRF24L01+ module, MPU6050 sensor, and a DC battery, captures and interprets user gestures. The MPU6050 detects hand or body motions, and the Arduino Nano processes this data to recognize specific gestures. These commands are then sent wirelessly via the NRF24L01+ transceiver to the receiver module.
 
 The receiver, also with an Arduino Nano, NRF24L01+ module, L298N driver module, and a DC battery, decodes the commands and controls the robot's motors accordingly using the L298N driver. This setup allows the robot to move and perform actions based on the user's gestures, providing intuitive and hands-free control.
