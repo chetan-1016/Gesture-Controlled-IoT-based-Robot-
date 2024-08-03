@@ -14,3 +14,5 @@ A prototype of the gesture-controlled IoT-based robot has been developed, follow
 Hardware Requirements: 
 ![Screenshot 2024-08-03 121913](https://github.com/user-attachments/assets/3b40ce0e-28d1-4b65-8fc4-38bfddefdde0)
 
+
+
